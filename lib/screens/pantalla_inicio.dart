@@ -35,7 +35,11 @@ class PantallaInicio extends StatelessWidget {
             ),
           ),
         ],
+        
       ),
+
+
     );
+    
   }
 }
